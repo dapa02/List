@@ -22,3 +22,6 @@
 2.  Untuk menambahan data pada variabel list yang sudah kita buat tadi adalah dengan menggunakan perulangan while
 3.  kita mengunakan perintah append agar nanti nilai yang di inputk masuk kedalam variabel list
 4.  Untuk Menampilkan output dari program yang kita menggunakan perulangan for i in range
+![screenshot  5](https://user-images.githubusercontent.com/115615983/203338893-7c1d1735-1ed5-42a5-acb4-309c2ed80649.png)
+
+- Berikut output dari program tersebut
