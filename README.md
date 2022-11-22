@@ -15,3 +15,4 @@
 - Tampilkan pertanyaan untuk menambah data
 - (y/t?), apabila jawaban t (Tidak), maka program akan menampilkan daftar datanya.
 - Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
+![screenshot  8](https://user-images.githubusercontent.com/115615983/203334432-88df7266-6a5d-47ed-aaca-4f715dc5aeaf.png)
