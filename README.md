@@ -16,3 +16,9 @@
 - (y/t?), apabila jawaban t (Tidak), maka program akan menampilkan daftar datanya.
 - Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
 ![screenshot  8](https://user-images.githubusercontent.com/115615983/203334432-88df7266-6a5d-47ed-aaca-4f715dc5aeaf.png)
+
+1.  Kita membuat List data terlebih dahulu
+- terdiri dari: nama=[], nim=[], tugas[], uts[], uas[], dan akhir[].
+2.  Untuk menambahan data pada variabel list yang sudah kita buat tadi adalah dengan menggunakan perulangan while
+3.  kita mengunakan perintah append agar nanti nilai yang di inputk masuk kedalam variabel list
+4.  Untuk Menampilkan output dari program yang kita menggunakan perulangan for i in range
