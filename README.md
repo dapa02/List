@@ -25,3 +25,4 @@
 ![screenshot  5](https://user-images.githubusercontent.com/115615983/203338893-7c1d1735-1ed5-42a5-acb4-309c2ed80649.png)
 
 - Berikut output dari program tersebut
+![screenshot  6](https://user-images.githubusercontent.com/115615983/203341724-57eda01a-c9f7-4854-ae91-5b157c905ceb.png)
